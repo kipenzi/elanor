@@ -1,0 +1,2 @@
+# elanor
+AI basic
